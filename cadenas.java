@@ -5,7 +5,7 @@ public class cadenas {
         Scanner teclado=new Scanner(System.in);
         String nombre1,nombre2;
         int edad1,edad2;
-        System.out.print("Ingrese el nombre:");
+        System.out.print("Ingrese el nombre:"); //ingresa el nombre del primer usuario
         nombre1=teclado.next();
         System.out.print("Ingrese edad:");
         edad1=teclado.nextInt();
